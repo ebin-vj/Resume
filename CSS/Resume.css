@@ -103,7 +103,7 @@ body {
 }
 
 .content-group {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .content-body {
@@ -116,4 +116,17 @@ body {
 .content-education p {
     margin-right: 10px;
     margin-top: 10px;
+}
+
+.project-language {
+    display: block;
+    margin-left: 30px;
+}
+
+.certificate-year {
+    float: right;
+}
+
+.content-body li {
+    margin: 10px 0;;
 }
